@@ -1,5 +1,5 @@
 ### Introducition
-The first dataset for model training is QMUGS dataset(over 3000k rows). Specifically, the goal is to train regression models(RF, NN) with featurizers(graphconv, ECFP) to predict the HOMO_LUMO gap value of each compound baseds on features in the dataset.
+The first dataset for model training is QMUGS dataset(around 2M rows). Specifically, the goal is to train regression models(RF, NN) with featurizers(graphconv, ECFP) to predict the HOMO_LUMO gap value of each compound baseds on features in the dataset.
 
 General Process:
 - data loading
